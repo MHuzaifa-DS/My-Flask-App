@@ -23,8 +23,7 @@ It uses Natural Language Processing (NLP) techniques to compare input with onlin
 - PDF/DOCX upload support
 - AI-based rephrasing suggestions
 
-## 📷 Demo
-(You can add screenshots or GIFs here)
+
 
 ## 📌 Author
 **Huzaifa Amir** – [LinkedIn](https://www.linkedin.com/in/huzaifa-amir-ha)
